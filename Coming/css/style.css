@@ -151,12 +151,12 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-cover {
-    height: 520px;
+    height: 550px;
   }
 }
 .fh5co-cover .display-t,
 .fh5co-cover .display-tc {
-  height: 520px;
+  height: 550px;
   display: table;
   width: 100%;
   padding-top: 0px;
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   .fh5co-cover .display-t,
   .fh5co-cover .display-tc {
-    height: 520px;
+    height: 550px;
   }
 }
 
